@@ -1,0 +1,14 @@
+.LoginForm{
+    text-align: center;
+    margin-top: 100px;
+}
+.Emailid{
+    width:500px;
+    align-items: center;
+    text-align: center;
+}
+
+.Formlabel{
+    width: 100px;
+}
+
